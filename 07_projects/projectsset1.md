@@ -5,7 +5,7 @@
 
 # Solution code
 
-## project 1
+## project 1 solution
 
 ```javascript
 console.log("anisha")
